@@ -1,0 +1,1 @@
+In many environments, there is a need to remotely control electrical appliances without relying on internet connectivity. GSM-based SMS control provides a reliable solution, especially in areas with limited internet access.
