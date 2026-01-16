@@ -66,7 +66,7 @@ The SIM800L requires a stable **3.8–4.2 V** power supply and high peak current
 | NO | Load Live | Switched output to load |
 | Neutral | Direct to Load | Neutral not switched |
 
-⚠ **Safety Notice:**  
+**Safety Notice:**  
 The relay provides electrical isolation between the low-voltage control circuit and the 220 V AC mains.  
 Only the **live** wire is switched; the **neutral** wire remains directly connected to the load.
 
