@@ -1,4 +1,4 @@
-#Conclusion
+# Conclusion
 
 The SMS-Controlled AC Switch project successfully demonstrates the concept of remotely controlling an electrical load via text commands. In the original design, a GSM module would receive SMS messages to switch a 220 V AC load on or off. For simulation purposes, the system has been adapted: the serial monitor acts as the SMS interface, an LED replaces the AC load, and the power supply is provided virtually through the simulation environment.
 
